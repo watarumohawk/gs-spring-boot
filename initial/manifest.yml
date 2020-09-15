@@ -1,0 +1,4 @@
+applications:
+  - name: gs-spring-boot
+    path: spring-boot-0.0.1-SNAPSHOT.jar
+    random-route: true
